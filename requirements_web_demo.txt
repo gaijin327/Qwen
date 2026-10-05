@@ -1,2 +1,2 @@
-gradio<3.42
+gradio<6.30
 mdtex2html
